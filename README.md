@@ -1,6 +1,6 @@
-# GoBot: Website Uptime and Performance Monitoring
+# WebSentry: Website Uptime and Performance Monitoring
 
-GoBot is a simple, lightweight Go application that monitors the uptime and performance of specified websites. It sends notifications to a Telegram chat when a website is down or responding slowly.
+WebSentry is a simple, lightweight Go application that monitors the uptime and performance of specified websites. It sends notifications to a Telegram chat when a website is down or responding slowly.
 
 ## Features
 - Monitors multiple websites for uptime.
@@ -24,6 +24,6 @@ GoBot is a simple, lightweight Go application that monitors the uptime and perfo
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/GoBot.git
-cd GoBot
+git clone https://github.com/CuneytKose/websentry.git
+cd websentry
  
