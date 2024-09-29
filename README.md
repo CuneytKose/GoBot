@@ -26,3 +26,4 @@ GoBot is a simple, lightweight Go application that monitors the uptime and perfo
 ```bash
 git clone https://github.com/your-username/GoBot.git
 cd GoBot
+ 
